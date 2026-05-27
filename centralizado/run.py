@@ -8,7 +8,7 @@
 # ------------------------------------------------------------
 
 import flautim as fl
-import IRISDataset, hdf5.TUTORIAL_1.IRISModel as IRISModel, IRISExperiment
+import hdf5.IRISDataset as IRISDataset, hdf5.IRISModel as IRISModel, hdf5.centralizado.IRISExperiment as IRISExperiment
 import numpy as np
 import pandas as pd
 import flautim.metrics as flm
